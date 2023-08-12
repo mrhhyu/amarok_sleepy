@@ -1,6 +1,6 @@
 # amarok_sleepy
 
-A script for **amarok music player** providing "screen turn off" and "system shutdown", which is based on the original sleepy script.
+This repository provides a script for **amarok music player** enabling "screen turn off" and "system shutdown", which is based on the original sleepy script.
 
 This script works with advanced linux kernels and is tested with Fedora 33~36 on Dell Inspiron 7373.
 
